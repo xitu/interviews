@@ -1,7 +1,17 @@
+> - 原文地址：[github.com/kdn251/interviews](https://github.com/kdn251/interviews)
+> - 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
+> - 译者：
+> - 校对者：
+
 # Interviews
+
 > Your personal guide to Software Engineering technical interviews.
 >
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
+
+## 其他语言版本
+
+- [English](https://github.com/xitu/interviews/blob/translation/README.md)
 
 ## Table of Contents
 - [Online Judges](#online-judges)
